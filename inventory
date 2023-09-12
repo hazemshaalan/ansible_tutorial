@@ -1,3 +1,5 @@
+[web_servers]
 server1@192.168.183.130
-server2@192.168.183.132
+[db_servers]
+server2@192.168.183.132 
 
